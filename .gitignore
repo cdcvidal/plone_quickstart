@@ -15,6 +15,6 @@ eggs/
 fake-eggs/
 parts/
 dist/
-var/
+
 
 adminPassword.txt
